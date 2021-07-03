@@ -1,8 +1,8 @@
 ### Hello World 👋
 I am a fullstack developer from Argentina
 
-- 🔭  Working on multiple frontend and backend project using react and nodejs
-- 🌱  Learning design patterns in depth
+- 🖥️ Working on multiple frontend and backend project using vue and nodejs
+- 👨‍💻 Learning Go and Flutter
 
 ## Connect with me
 

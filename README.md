@@ -3,7 +3,7 @@ I am a developer from Argentina
 
 - Working on multiple frontend and backend projects using vue.js and node.js
 - Learning Go and Flutter
-- 
+
 ## Expertise
 <img align="left" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />

@@ -4,7 +4,7 @@ I am a developer from Argentina
 - Working on multiple frontend and backend projects using vue.js and node.js
 - Learning Go and Flutter
 
-## Connect with me
+## Contact me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/btowers/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/13535982/btowers)

@@ -5,6 +5,7 @@ I am a developer and industrial engineer from Argentina
 - Learning Go and Flutter
 
 ## Expertise
+
 <img align="left" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -21,7 +22,6 @@ I am a developer and industrial engineer from Argentina
 
 <br>
 <br>
-
 
 
 <!--

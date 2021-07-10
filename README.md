@@ -1,5 +1,5 @@
 ### Hello World 👋🏻
-I am a developer and industrial engineer from Argentina
+I´m a developer and industrial engineer from Argentina
 
 - Working on frontend and backend projects using vue.js and node.js
 - Learning Go and Flutter

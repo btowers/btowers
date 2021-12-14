@@ -1,7 +1,7 @@
 ### Hello World 👋🏻
 I´m a developer and industrial engineer from Argentina
 
-- Working on frontend and backend projects using vue.js and node.js
+- Working on frontend and backend projects with vue.js and node.js
 - Learning Go!
 
 ## Expertise

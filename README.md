@@ -1,11 +1,12 @@
 ### Hello World 👋🏻
 I´m a developer and industrial engineer from Argentina
 
-- Working on frontend and backend projects with vue.js and node.js
+- Working on frontend and backend projects with MERN and MEVN stacks.
 - Learning Go!
 
 ## Expertise
 
+<img align="left" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="left" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
